@@ -1,0 +1,30 @@
+tr {
+  font-size: 15px;
+  font-weight: 400;
+  height: 55px;
+}
+
+.odd-row {
+  background-color: #DADADA;
+}
+
+td {
+  padding: 0 20px 0 20px;
+  text-align: center;
+}
+
+.proposer-cell {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.proposer-cell a {
+  margin-left: 8px;
+}
+
+img {
+  width: 27px;
+  height: 27px;
+  border-radius: 50%;
+}

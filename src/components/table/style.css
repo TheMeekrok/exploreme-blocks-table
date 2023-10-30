@@ -1,0 +1,37 @@
+.table-holder {
+  background: #FFFFFF;
+  border-radius: 20px;
+  padding: 25px;
+}
+
+.type-switch {
+  display: flex;
+  background-color: #DADADA;
+  border-radius: 10px;
+  width: 263px;
+}
+
+.switch-option {
+  text-align: center;
+  padding: 7px;
+  width: 134.96px;
+}
+
+.choosen-type {
+  background-color: #707070;
+  border-radius: 10px;
+  color: #FFFFFF;
+}
+
+table {
+  border: none;
+  width: 100%;
+  margin-top: 15px;
+}
+
+th {
+  font-size: 15px;
+  font-weight: 500;
+  height: 55px;
+  vertical-align: middle;
+}
